@@ -10,4 +10,4 @@ This repository documents my personal learning journey into the world of Traditi
 2. [中醫百科](https://zhongyibaike.com/) - 中醫百科全書
 3. 
 
-# [中醫英譯參考](TCM_Translate.md)
+### [中醫英譯參考](TCM_Translate.md)
