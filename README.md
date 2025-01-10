@@ -17,10 +17,10 @@ This repository documents my personal learning journey into the world of Traditi
 
 循環堵塞不暢，營養氧氣不能送到臟腑，新陳代謝的廢物不能排除，皆是為百病之源，故治病必治血。<br>
  
-<strong>活血化瘀治百病。</strong>
+<b>活血化瘀治百病。</b>
 
-<img src="https://github.com/ccbearyeh/Exploring-the-Path-of-Medicine/blob/main/images/eAYnibTzsKfsV42u-screenshot.png" />
-<br>常用活血化瘀的中藥。血液順暢自然就不痛了。可以用一味中药：[延胡索](https://yibian.hopto.org/db/?yno=77)
+<img src="https://github.com/ccbearyeh/Exploring-the-Path-of-Medicine/blob/main/images/eAYnibTzsKfsV42u-screenshot.png" /><br>
+常用活血化瘀的中藥。血液順暢自然就不痛了。可以用一味中药:[延胡索](https://yibian.hopto.org/db/?yno=77)
 
 
 # 特別感謝恩師 - 張蔚炎中醫師
@@ -28,7 +28,7 @@ This repository documents my personal learning journey into the world of Traditi
 
 ### 張蔚炎醫師 簡介
 Jimmy Jian-Tai Acupuncture Clinic<br>
-[jimmyclinic.com](jimmyclinic.com)
+[jimmyclinic.com](https://jimmyclinic.com)
 
 美國USC公共衛生碩士<br>
 美國西北大學公共衛生博士<br>
