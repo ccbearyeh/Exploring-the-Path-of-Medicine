@@ -11,4 +11,43 @@ This repository documents my personal learning journey into the world of Traditi
 3. [中醫英譯參考](TCM_Translate.md)
 
 
-[活血化瘀](活血化瘀.md)
+# 活血化瘀
+
+血液為生身之寶，循環良好亦為健康之本，然而..人體五臟六腑必有瘀血，滯血，黏血。<br>
+
+循環堵塞不暢，營養氧氣不能送到臟腑，新陳代謝的廢物不能排除，皆是為百病之源，故治病必治血。<br>
+ 
+<strong>活血化瘀治百病。</strong>
+
+<img src="https://github.com/ccbearyeh/Exploring-the-Path-of-Medicine/blob/main/images/eAYnibTzsKfsV42u-screenshot.png" />
+<br>常用活血化瘀的中藥。 血液順暢自然就不痛了。 可以用一味中药：元胡索
+
+
+# 特別感謝恩師 - 張蔚炎中醫師
+本人於2024年拜師於張醫師門下，故文章裡有多處引用師父的著作【脈診發微】及上課資料，將師父的理念廣為流傳。
+
+### 張蔚炎醫師 簡介
+Jimmy Jian-Tai Acupuncture Clinic
+[jimmyclinic.com](jimmyclinic.com)
+
+美國USC公共衛生碩士 
+美國西北大學公共衛生博士
+中華民國中醫師執照。台中字1509 
+加州針灸醫師執照。AC4048
+紐約州針灸醫師執照
+NCCAOM全國針灸醫師執照
+
+### 經 歷: 
+- 台灣健泰中醫診所執業15年
+- 正聲電台、警廣、復興等電台主持健康諮詢講座10年 
+- 加州健泰中醫診所執業22年
+- 加州AM1300, 1600健康諮詢講座15年
+- 張氏脈法教學45年
+- 全美針灸醫師再教育講座22年(現場、webinar)
+
+### 著作
+1. 中醫脈診發微
+2. 脈診教學錄影帶、錄音帶
+3. 中醫臨症醫典
+4. 中醫針灸醫典
+5. 養生食譜 - 怎樣吃最妥當
