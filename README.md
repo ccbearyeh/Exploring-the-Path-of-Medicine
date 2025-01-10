@@ -22,7 +22,7 @@ This repository documents my personal journey of learning and exploration within
 - 推拿
 - 針灸
 
-# 中醫診斷
+# [中醫診斷](中醫診斷.md)
 ## 望聞問切
 "望闻问切"（wàng wén wèn qiè）是中医传统的四大诊断方法，简称为“四诊”。这是中医诊断的基础，帮助医师全面了解患者的健康状况，从而做出准确的诊断和治疗方案。以下是每个方法的详细介绍：
 
@@ -40,7 +40,7 @@ This repository documents my personal journey of learning and exploration within
 通过结合这四种诊断方法，中医师能够全面、系统地评估患者的健康状况，进而制定个性化的治疗方案。这套诊断系统强调从整体上看待人体的健康与疾病，不仅注重病症本身，还考虑身体的全面平衡与和谐。
 
 
-# 特別感謝恩師 - 張蔚炎中醫師
+# 特別感謝恩師 - [張蔚炎中醫師](中醫師張蔚炎.md)
 本人於2024年拜師於張醫師門下，故文章裡有多處引用師父的著作【脈診發微】及上課資料，期將師父的理念廣為流傳。
 
 ### 以下為張蔚炎中醫師簡介
