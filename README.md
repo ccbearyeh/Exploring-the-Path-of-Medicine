@@ -22,7 +22,7 @@ This repository documents my personal journey of learning and exploration within
 - 推拿
 - 針灸
 
-# [中醫診斷](中醫診斷.md)
+# [中醫診斷](中醫診斷/中醫診斷.md)
 ## 望聞問切
 "望闻问切"（wàng wén wèn qiè）是中医传统的四大诊断方法，简称为“四诊”。这是中医诊断的基础，帮助医师全面了解患者的健康状况，从而做出准确的诊断和治疗方案。以下是每个方法的详细介绍：
 
