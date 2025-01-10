@@ -7,6 +7,7 @@ This repository documents my personal journey of learning and exploration within
 1. [醫砭](https://yibian.hopto.org/db/) - 中醫資料庫
 2. [中醫百科](https://zhongyibaike.com/) - 中醫百科全書
 3. [中醫英譯參考](TCM_Translate.md)
+4. [中醫脈診專用術語](/images/中醫脈診專用術語.png)
 
 
 # 活血化瘀
