@@ -20,26 +20,26 @@ This repository documents my personal learning journey into the world of Traditi
 <strong>活血化瘀治百病。</strong>
 
 <img src="https://github.com/ccbearyeh/Exploring-the-Path-of-Medicine/blob/main/images/eAYnibTzsKfsV42u-screenshot.png" />
-<br>常用活血化瘀的中藥。 血液順暢自然就不痛了。 可以用一味中药：元胡索
+<br>常用活血化瘀的中藥。血液順暢自然就不痛了。可以用一味中药：[延胡索](https://yibian.hopto.org/db/?yno=77)
 
 
 # 特別感謝恩師 - 張蔚炎中醫師
 本人於2024年拜師於張醫師門下，故文章裡有多處引用師父的著作【脈診發微】及上課資料，將師父的理念廣為流傳。
 
 ### 張蔚炎醫師 簡介
-Jimmy Jian-Tai Acupuncture Clinic
+Jimmy Jian-Tai Acupuncture Clinic<br>
 [jimmyclinic.com](jimmyclinic.com)
 
-美國USC公共衛生碩士 
-美國西北大學公共衛生博士
-中華民國中醫師執照。台中字1509 
-加州針灸醫師執照。AC4048
-紐約州針灸醫師執照
-NCCAOM全國針灸醫師執照
+美國USC公共衛生碩士<br>
+美國西北大學公共衛生博士<br>
+中華民國中醫師執照。台中字1509<br>
+加州針灸醫師執照。AC4048<br>
+紐約州針灸醫師執照<br>
+NCCAOM全國針灸醫師執照<br>
 
 ### 經 歷: 
 - 台灣健泰中醫診所執業15年
-- 正聲電台、警廣、復興等電台主持健康諮詢講座10年 
+- 正聲電台、警廣、復興等電台主持健康諮詢講座10年
 - 加州健泰中醫診所執業22年
 - 加州AM1300, 1600健康諮詢講座15年
 - 張氏脈法教學45年
