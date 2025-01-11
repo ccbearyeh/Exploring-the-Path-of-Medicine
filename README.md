@@ -25,7 +25,8 @@ This repository documents my personal journey of learning and exploration within
 
 # [中醫診斷](中醫診斷/中醫診斷.md)
 
-## Warning 警告: 本文是筆者個人閱讀及學習的筆記，內容僅反映本人對中醫知識的理解與認知。如有他人根據本文內容進行醫療行為，所產生的任何後果，筆者不承擔任何責任。使用者需謹慎，並諮詢專業中醫師的建議。
+## 警告: 本文是筆者個人閱讀及學習的筆記，內容僅反映本人對中醫知識的理解與認知。如有他人根據本文內容進行醫療行為，所產生的任何後果，筆者不承擔任何責任。使用者需謹慎，並諮詢專業中醫師的建議。
+## Warning: This article consists of personal notes from my readings and studies, reflecting only my understanding and perceptions of Traditional Chinese Medicine (TCM) knowledge. I do not assume any responsibility for the consequences of others using this content for medical practice. Users should exercise caution and consult with a professional TCM practitioner.
 
 # 特別感謝恩師 - [張蔚炎中醫師](中醫師張蔚炎.md)
 本人於2024年拜師於張醫師門下，故文章裡有多處引用師父的著作【脈診發微】及上課資料，期將師父的理念廣為流傳。
