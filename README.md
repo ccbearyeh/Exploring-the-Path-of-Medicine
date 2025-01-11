@@ -19,7 +19,7 @@ This repository documents my personal journey of learning and exploration within
 ## 活血化瘀的方法，血液順暢自然就不痛了。
 - [刮痧](刮痧.md)
 - [拔罐](拔罐.md)
-- 中藥: 常用的一味活血化瘀中藥 [延胡索](https://yibian.hopto.org/db/?yno=77)
+- [中藥](中藥/活血化瘀药.md):常用的一味活血化瘀中藥 [延胡索](https://yibian.hopto.org/db/?yno=77)
 - 推拿
 - 針灸
 
