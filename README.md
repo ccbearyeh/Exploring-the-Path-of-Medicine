@@ -1,4 +1,4 @@
-# 醫道探幽 Exploring-the-Path-of-Medicine
+# 醫道探微 Exploring-the-Path-of-Medicine
 這裡記錄了我個人在中醫世界的學習旅程，包括學習筆記、對陰陽、五行和經絡理論等關鍵概念的反思以及對草藥療法、針灸、拔罐、刮痧等其他中醫模式的探索。這是一個分享知識、促進討論和加深對這一引人入勝且複雜的醫學體系的理解的空間。
 
 This repository documents my personal journey of learning and exploration within the world of Traditional Chinese Medicine (TCM). It includes study notes, reflections on key concepts such as Yin and Yang, the Five Elements, and Meridian theory, as well as explorations of various TCM modalities including herbal remedies, acupuncture, cupping, and gua sha. This space is dedicated to sharing knowledge, fostering discussion, and deepening understanding of this fascinating and complex medical system.
@@ -24,6 +24,7 @@ This repository documents my personal journey of learning and exploration within
 - 針灸
 
 ## [中醫診斷方法](中醫診斷/中醫診斷.md)
+「望闻问切」是中医传统的四大诊断方法，简称为“四诊”。这是中医诊断的基础，帮助医师全面了解患者的健康状况，从而做出准确的诊断和治疗方案。
 
 ### 警告: 本文是筆者個人閱讀及學習的筆記，內容僅反映本人對中醫知識的理解與認知。如有他人根據本文內容進行醫療行為，所產生的任何後果，筆者不承擔任何責任。使用者需謹慎，並諮詢專業中醫師的建議。
 ### Warning: This article consists of personal notes from my readings and studies, reflecting only my understanding and perceptions of Traditional Chinese Medicine (TCM) knowledge. I do not assume any responsibility for the consequences of others using this content for medical practice. Users should exercise caution and consult with a professional TCM practitioner.
