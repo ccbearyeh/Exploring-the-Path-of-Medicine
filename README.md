@@ -8,6 +8,7 @@ This repository documents my personal journey of learning and exploration within
 2. [中醫百科](https://zhongyibaike.com/) - 中醫百科全書
 3. [中醫英譯參考](TCM_Translate.md)
 4. [中醫脈診專用術語](/images/中醫脈診專用術語.png)
+5. [醫學與癌症專有名詞中英對照](https://drive.google.com/file/d/13yIE4uxYzl37t9itQB2VJkEZVjAngnfR)
 
 
 # 活血化瘀
