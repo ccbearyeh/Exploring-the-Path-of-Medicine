@@ -17,7 +17,7 @@ This repository documents my personal journey of learning and exploration within
 血液為生身之寶，循環良好亦為健康之本，然而人體五臟六腑必有瘀血，滯血，黏血。<br>
 循環堵塞不暢，營養氧氣不能送到臟腑，新陳代謝的廢物不能排除，皆是為百病之源，故治病必治血。<br>
 <b>活血化瘀治百病。</b>
-<img src="https://github.com/ccbearyeh/Exploring-the-Path-of-Medicine/blob/main/images/eAYnibTzsKfsV42u-screenshot.png" /><br>
+![活血化瘀治百病](images/eAYnibTzsKfsV42u-screenshot.png")
 
 ### 活血化瘀的方法，血液順暢自然就不痛了。
 - [刮痧](刮痧.md)
