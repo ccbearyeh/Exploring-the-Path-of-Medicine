@@ -3,7 +3,7 @@
 
 This repository documents my personal journey of learning and exploration within the world of Traditional Chinese Medicine (TCM). It includes study notes, reflections on key concepts such as Yin and Yang, the Five Elements, and Meridian theory, as well as explorations of various TCM modalities including herbal remedies, acupuncture, cupping, and gua sha. This space is dedicated to sharing knowledge, fostering discussion, and deepening understanding of this fascinating and complex medical system.
 
-## 中醫參考資料庫
+# 中醫參考資料庫
 1. [醫砭](https://yibian.hopto.org/db/) - 中醫資料庫
 2. [中醫百科](https://zhongyibaike.com/) - 中醫百科全書
 3. [中醫英譯參考](TCM_Translate.md)
@@ -12,7 +12,7 @@ This repository documents my personal journey of learning and exploration within
 6. [24節氣中英文對照](https://docs.google.com/document/d/1ttCfZuxex5yi9CPhQ_I9UcymR99KqOICH0KOCjcMG74)
 7. [中醫常用83方劑](https://drive.google.com/file/d/1AW77uL_1f-sml_jSosjDs86AeEpCok7C)
 8. [中医基础理论](https://www.zysj.com.cn/lilunshuji/jichulilun/index.html)
-
+9. [線上中医书籍](https://www.zysj.com.cn/lilunshuji/index.html)
 
 # 活血化瘀
 血液為生身之寶，循環良好亦為健康之本，然而人體五臟六腑必有瘀血，滯血，黏血。<br>
