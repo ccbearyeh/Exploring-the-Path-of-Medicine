@@ -13,6 +13,9 @@ This repository documents my personal journey of learning and exploration within
 7. [中醫常用83方劑](https://drive.google.com/file/d/1AW77uL_1f-sml_jSosjDs86AeEpCok7C)
 8. [中医基础理论](https://www.zysj.com.cn/lilunshuji/jichulilun/index.html)
 9. [線上中医书籍](https://www.zysj.com.cn/lilunshuji/index.html)
+10. [中醫診斷學- 朱文鋒](https://youtube.com/playlist?list=PL4vrC2HG1WdSdehxB4jAV7Ac9dDXuEeyJ&si=DTVSl6-9qCmbY4j-)
+11. [中医中药学79课-张廷模](https://youtube.com/playlist?list=PLvslYZmmMua7aLuCHNNg30dWsBk_BqKGY&si=XeqD_f8Nguw70Jpz)
+12. [方剂学 邓中甲](https://youtube.com/playlist?list=PLOACcC0G6QXWe2Up0QN3Rh_XimUZjx7Yt&si=Fj7LRCxEndOyLtha)
 
 # 活血化瘀
 血液為生身之寶，循環良好亦為健康之本，然而人體五臟六腑必有瘀血，滯血，黏血。<br>
