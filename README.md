@@ -11,6 +11,7 @@ This repository documents my personal journey of learning and exploration within
 5. [醫學與癌症專有名詞中英對照](https://drive.google.com/file/d/13yIE4uxYzl37t9itQB2VJkEZVjAngnfR)
 6. [24節氣中英文對照](https://docs.google.com/document/d/1ttCfZuxex5yi9CPhQ_I9UcymR99KqOICH0KOCjcMG74)
 7. [中醫常用83方劑](https://drive.google.com/file/d/1AW77uL_1f-sml_jSosjDs86AeEpCok7C)
+8. [中医基础理论](https://www.zysj.com.cn/lilunshuji/jichulilun/index.html)
 
 
 # 活血化瘀
