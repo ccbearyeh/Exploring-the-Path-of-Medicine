@@ -17,6 +17,8 @@ This repository documents my personal journey of learning and exploration within
 11. [中医中药学79课-张廷模](https://youtube.com/playlist?list=PLvslYZmmMua7aLuCHNNg30dWsBk_BqKGY&si=XeqD_f8Nguw70Jpz)
 12. [方剂学 邓中甲](https://youtube.com/playlist?list=PLOACcC0G6QXWe2Up0QN3Rh_XimUZjx7Yt&si=Fj7LRCxEndOyLtha)
 
+![中醫自學順序](images/IMG_3632.JPG)
+
 # 活血化瘀
 血液為生身之寶，循環良好亦為健康之本，然而人體五臟六腑必有瘀血，滯血，黏血。<br>
 循環堵塞不暢，營養氧氣不能送到臟腑，新陳代謝的廢物不能排除，皆是為百病之源，故治病必治血。<br>
